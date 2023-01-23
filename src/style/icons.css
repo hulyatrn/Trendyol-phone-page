@@ -1,0 +1,47 @@
+.arrowsort-icon {
+  font-size: 16px;
+  color: #f27a1a;
+  min-width: 18px;
+}
+
+.down-icon {
+  font-size: 11px;
+  color: #f27a1a;
+}
+
+.truck-icon {
+  color: #0bc15c;
+  font-size: 9px;
+}
+
+.coupon-icon {
+  font-size: 9px;
+  color: #ff4988;
+}
+
+.fvr-icon {
+  font-size: 25px;
+  position: relative;
+  margin-left: 9px;
+  top: 8px;
+}
+
+.fvr-icon:hover {
+  font-size: 25px;
+  position: relative;
+  margin-left: 9px;
+  top: 8px;
+  color: #f27a1a;
+}
+
+.star-icon {
+  color: #f2b81a;
+  font-size: 14px;
+}
+
+.trending-down-icon {
+  color: #EC1C36;
+  font-size: 12px;
+  font-weight: 600;
+  margin-right: 3px;
+}/*# sourceMappingURL=icons.css.map */

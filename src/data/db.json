@@ -1,0 +1,85 @@
+[
+        {
+            "id":1,
+            "name": "Apple",
+            "text": "İPhone 11 128 GB Siyah Cep Telefonu",
+            "price": "17999 TL",
+            "image": "https://cdn.dsmcdn.com/ty531/product/media/images/20220912/11/174284806/111694429/1/1_org_zoom.jpg"
+        },
+        {
+            "id":2,
+            "name": "Xiaomi ",
+            "text": "Redmi Note 11 Pro 8 GB+128 GB Akıllı Cep Telefonu",
+            "price": "7.590 TL",
+            "image":"https://cdn.dsmcdn.com/ty469/product/media/images/20220706/16/136128260/515421476/2/2_org_zoom.jpg"
+        },
+        {
+            "id":3,
+            "name": "Samsung",
+            "text": "Galaxy A32 128 GB Mavi Cep Telefonu",
+            "price": "7.198,99 TL",
+            "image": "https://cdn.dsmcdn.com/ty540/product/media/images/20220927/13/180289100/168995522/2/2_org_zoom.jpg"
+        },
+        {
+            "id":4,
+            "name": "Apple",
+            "text": " iPhone 13 128 GB Yıldız Işığı Cep Telefonu",
+            "price": "27.398,99 TL",
+            "image": "https://cdn.dsmcdn.com/ty438/product/media/images/20220526/14/116422534/250484948/1/1_org_zoom.jpg"
+        },
+        {
+            "id":5,
+            "name": "Xiaomi",
+            "text": "Redmi Note 10 Pro 8 Gb 256 Gb Mavi",
+            "price": "8.299 TL",
+            "image": "https://cdn.dsmcdn.com/ty605/product/media/images/20221118/17/217780242/626837084/1/1_org_zoom.jpg"
+        },
+        {
+            "id":6,
+            "name": "Apple",
+            "text": "iPhone 14 Pro Max 128GB Derin Mor",
+            "price": "47.385 TL",
+            "image": "https://cdn.dsmcdn.com/ty538/product/media/images/20220920/22/177587596/574173140/2/2_org_zoom.jpg"
+        },
+        {
+            "id":7,
+            "name": "POCO",
+            "text": "X4 Pro 5G 8GB Ram + 256GB Mavi Cep Telefonu",
+            "price": "10.198,99 TL",
+            "image": "https://cdn.dsmcdn.com/ty384/product/media/images/20220405/16/83638229/437450011/1/1_org_zoom.jpg"
+        },
+        {
+            "id":8,
+            "name": "Apple",
+            "text": "iPhone 12 Mini 64 GB Mavi Cep Telefonu",
+            "price": "22.479 TL",
+            "image": "https://cdn.dsmcdn.com/ty201/product/media/images/20211018/8/151313366/113651450/1/1_org_zoom.jpg"
+        },
+        {
+            "id":9,
+            "name": "Oppo",
+            "text": "A16 3GB+32GB Siyah Cep Telefonu",
+            "price": "3.599 TL",
+            "image": "https://cdn.dsmcdn.com/ty252/product/media/images/20211125/23/111876094/322594522/1/1_org_zoom.jpg"
+        },
+        {
+            "id":10,
+            "name": "Samsung",
+            "text": "Galaxy A73 128 GB Beyaz Cep Telefonu",
+            "price": "12.239 TL",
+            "image": "https://cdn.dsmcdn.com/ty430/product/media/images/20220512/19/109952901/477782141/1/1_org_zoom.jpg"
+        },
+        {
+            "id":11,
+            "name": "Apple",
+            "text": "iPhone 13 128 GB Kırmızı Cep Telefonu",
+            "price": "27.598,99 TL",
+            "image": "https://cdn.dsmcdn.com/ty439/product/media/images/20220526/14/116422547/250485278/1/1_org_zoom.jpg"
+        },        {
+            "id":12,
+            "name": "Apple",
+            "text": "iPhone 14 Pro Max 1TB Uzay Siyahı",
+            "price": "63.269 TL",
+            "image": "https://cdn.dsmcdn.com/ty663/product/media/images/20221226/10/246953673/574173149/1/1_org_zoom.jpg"
+        }
+    ]
